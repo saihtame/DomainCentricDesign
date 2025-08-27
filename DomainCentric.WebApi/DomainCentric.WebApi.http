@@ -1,0 +1,6 @@
+@DomainCentric.WebApi_HostAddress = http://localhost:5028
+
+GET {{DomainCentric.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
